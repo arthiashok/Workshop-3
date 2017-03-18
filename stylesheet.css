@@ -1,0 +1,150 @@
+body{
+  background-color: #441e13;
+  color: white;
+}
+
+.logoContainer{
+  max-width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+}
+
+.logo{
+  color: white;
+  font-weight: bold;
+  font-size: 2.5rem;
+  width: 195px;
+  float: left;
+}
+
+.slogan{
+  width: 380px;
+  color: #A37B71;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+  margin-top: 18px;
+  float: left;
+}
+
+.nav {
+  background-color: rgba(0,0,0,0.25);
+  height: 62px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 920px;
+}
+
+.nav ol{
+  padding: 18px 10px;
+}
+
+.nav li{
+  border-right: 1px solid #D48364;
+  display: block;
+  float: left;
+  padding: 6px 20px;
+  font-family: sans-serif;
+}
+
+.nav li:last-child{
+  border-right: none;
+}
+
+.nav {
+  background-color: rgba(0,0,0,0.25);
+  height: 62px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 920px;
+}
+
+.header{
+  max-width: 924px;
+  max-height: 210px;
+  margin-left: auto;
+  background-color: #87a984;
+  margin-right: auto;
+  overflow: hidden;
+  margin-top: 18px;
+}
+
+#plane{
+  width: 148px;
+  height: 132px;
+  float: left;
+  margin-left: 20px;
+  margin-top: -5px;
+}
+
+.image1{
+  margin-top: -10px;
+}
+
+.About{
+  color: white;
+  font-weight: bold;
+  font-size: 2.5rem;
+  width: 195px;
+  float: left;
+  margin-left: 50px;
+}
+
+.Moretext{
+  width: 380px;
+  color: #A37B71;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+  float: left;
+  color: white;
+  position: relative;
+  margin-top: 50px;
+  margin-left: -195px;
+}
+.aside{
+  width: 197px;
+  height: 613px;
+  margin-left: 330px;
+  background-color: #96afac;
+}
+.nav2{
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.nav2 li{
+  border-bottom: 1px solid #b6c6c6;
+  display: block;
+  padding: 6px 20px;
+  font-family: sans-serif;
+  margin-top: 5px;
+  margin-left: -12.5px;
+  margin-bottom: auto;
+  float: left;
+}
+
+.section{
+  width: 729px;
+  height: 612px;
+  background-color: #dbd8c5;
+  margin-left: 525px;
+  margin-top: -613px;
+}
+
+.title{
+  color: #576a70;
+  font-weight: bold;
+  font-family: sans-serif;
+  background-color: #dbd8c5;
+  font-size: 1.5rem;
+  width: 730px;
+  height: 0px;
+  margin-left: 25px;
+  margin-bottom: -50px;
+}
+
+.moreInfo{
+  color: black;
+  font-family: sans-serif;
+  margin-top: 100px;
+  margin-left: 25px;
+}
